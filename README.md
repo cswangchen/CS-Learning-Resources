@@ -1,6 +1,6 @@
 # Chrome资源
-[![Stars](https://img.shields.io/github/stars/mbinary/USTC-CS-Courses-Resource.svg?label=Stars&style=social)](https://github.com/cswangchen/collection/stargazers)
-[![Forks](https://img.shields.io/github/forks/mbinary/USTC-CS-Courses-Resource.svg?label=Fork&style=social)](https://github.com/cswangchen/collection/network/members)
+[![Stars](https://img.shields.io/github/stars/cswangchen/collection.svg?label=Stars&style=social)](https://github.com/cswangchen/collection/stargazers)
+[![Forks](https://img.shields.io/github/forks/cswangchen/collection.svg?label=Fork&style=social)](https://github.com/cswangchen/collection/network/members)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 >Chrome 整理
