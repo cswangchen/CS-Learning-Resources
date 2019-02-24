@@ -241,6 +241,12 @@ Using Python to Access Web Data
 
 ## Computer-Vision
 ###1.Courses
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) | UVA | 12 week | 5 hours/week | self-paced | none
+
+
 Courses | university | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) | Stanford | 12 week | 5 hours/week | self-paced | none
@@ -248,6 +254,15 @@ Courses | university | Duration | Effort | Frequency | Prerequisites
 
 1. [CS231n: Convolutional Neural Networks for Visual Recognition.](http://cs231n.github.io/)
 2. 
+
+## Computer Science Basics
+
+Courses | School | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) | UVA | 12 week | 5 hours/week | self-paced | none
+[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
+
+
 
 ###2.Lab
 1. [Stanford CVGL](http://cvgl.stanford.edu/resources.html)
