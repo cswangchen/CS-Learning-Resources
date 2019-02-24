@@ -27,12 +27,12 @@
 - 对于贡献者, 请遵守如上约定, 尊重创作者的劳动成果, 有来源的需要注明资源的来源(原创者, 网址等等).
 - 对于创作者, 如果我们遗漏了你的授权(有些资源无法找到来源)或者损害了你的权益, 对此感到抱歉, 请联系我们协商或者删除.
 
-# 反馈方式
-- [issue](https://github.com/mbinary/USTC-CS-Courses-Resource/issues/new)
+# 联系&Feedback
+- [issue](https://github.com/cswangchen/collection/issues/new)
 - <a href="mailto:barryiself@gmail.com?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">email</a>
 
 
-
+#Contents
 
 
 <!-- vim-markdown-toc GFM -->
@@ -53,7 +53,7 @@
 
 <!-- vim-markdown-toc -->
 
-
+```
 # 课程目录
 **根据拼音字母排序**, 可以通过在此页面搜索课程名快速定位.
 
@@ -88,7 +88,7 @@
         * [Web-信息处理与应用](./计算机与信息类/Web-信息处理与应用)
         * [微机原理与系统](./计算机与信息类/微机原理与系统)
         * [物联网导论](./计算机与信息类/物联网导论)
-
+```
 
 
 
@@ -143,14 +143,32 @@ https://www.icourse163.org/learn/BIT-1001873001?tid=1001966001#/learn/content
 https://www.icourse163.org/learn/BIT-1001872001?tid=1001965001#/learn/announce
 
 
-
 > Python科学计算三维可视化 https://www.icourse163.org/learn/BIT-1001871001?tid=1001964001#/learn/announce
 > 
 Python语言程序设计 https://www.icourse163.org/learn/BIT-268001?tid=1002235009#/learn/content
 
 
+#### University of MICHIGAN
+
+* Programming for Everybody (Getting Started with Python)
+* 
+Python Data Structures
+* 
+Using Databases with Python
+* 
+Using Python to Access Web Data
+> https://www.coursera.org/learn/python?specialization=python
 
 
+
+
+- Course-Resource(http://www.pythonlearn.com/)
+
+University of Michigan that use Python:
+
+EECS/SI 182 - Building Applications for Information Environments
+SI 502 - Networked Computing: Storage, Communication, and Processing
+SI 539 - Design of Complex Web Sites.
 
 
 
