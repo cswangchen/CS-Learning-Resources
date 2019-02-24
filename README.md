@@ -11,8 +11,6 @@
 
 * [版权问题](#版权问题)
 * [反馈方式](#反馈方式)
-* [资料下载](#资料下载)
-* [课程结构](#课程结构)
 * [课程目录](#课程目录)
 * [贡献投稿](#贡献投稿)
     * [投稿方式](#投稿方式)
@@ -31,18 +29,10 @@
 
 # 反馈方式
 - [issue](https://github.com/mbinary/USTC-CS-Courses-Resource/issues/new)
-- <a href="mailto:&#122;barryiself@gmail.com?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">email</a>
-- [QQ](http://wpa.qq.com/msgrd?v=3&uin=995609578&site=qq&menu=yes)
+- <a href="mailto:barryiself@gmail.com?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">email</a>
 
 
 
-# 课程结构
-每门课程大致结构如下，有些栏目可能没有，也可以自己添加认为合理的栏目
-
-* 教材, 答案在课程目录下
-* 参考书, 参考资料在 reference 下
-* 复习试卷, 习题课, 作业解答 在 review 下
-* 建立文件夹 homework-teacher1, homework-teacher2 ..., lab-teacher1, 每个文件夹中如果有不同年份的, 就再建立不同年份的文件夹
 
 
 <!-- vim-markdown-toc GFM -->
