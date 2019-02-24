@@ -69,7 +69,6 @@
 
 * [.](.)
     * [MOOC](./MOOC)
-        *http://www.chinesemooc.org/course.php?ac=course_view&id=334267&eid=7580&key=0
         * [宏观经济学](./经管类/宏观经济学)
         * [会计学原理](./经管类/会计学原理)
         * [生产与运作管理](./经管类/生产与运作管理)
@@ -131,8 +130,8 @@
 ## 投稿方式
 
 # MOOC
-123
-
+EDX-https://www.edx.org/
+Founded by Harvard University and MIT in 2012, edX is an online learning destination and MOOC provider, offering high-quality courses from the world’s best universities and institutions to learners everywhere.
 
 ## Python
 ## Python-Practice
