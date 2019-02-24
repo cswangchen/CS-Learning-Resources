@@ -97,55 +97,45 @@
 
 *For University*
 
-- edx
-> https://www.edx.org/
+- [edx](https://www.edx.org/)
 
 
 
 
--  coursera
-> https://www.coursera.org/
+-  [coursera](https://www.coursera.org/)
 
 
 
-- xuetangx
->  http://www.xuetangx.com/ 
+- [xuetangx](http://www.xuetangx.com/) 
 
-- 中国大学mooc
-> https://www.icourse163.org/learn/BIT-1001871001?tid=1001964001#/learn/announce
+- [中国大学mooc](https://www.icourse163.org/learn/BIT-1001871001?tid=1001964001#/learn/announce)
 
-*For Career*
+*For Career Promotion*
 
--Udacity
+-[Udacity](https://cn.udacity.com/)
 
-
-> https://cn.udacity.com/
-
--网易云课堂
-> https://study.163.com/
+-[网易云课堂](https://study.163.com/)
 
 
 ## Python
 
 #### Beijing Institute of Technology
-> Python数据分析与展示 https://www.icourse163.org/learn/BIT-1001870002?tid=1001963001
+> [Python数据分析与展示]( https://www.icourse163.org/learn/BIT-1001870002?tid=1001963001)
 
-> Python网络爬虫与信息提取 https://www.icourse163.org/learn/BIT-1001870001?tid=1002236011
+> [Python网络爬虫与信息提取]( https://www.icourse163.org/learn/BIT-1001870001?tid=1002236011)
+
+> [Python云端系统开发入门]( https://www.icourse163.org/learn/BIT-1001871002?tid=1001963002#/learn)
+
+
+> [Python游戏开发入门](https://www.icourse163.org/learn/BIT-1001873001?tid=1001966001#/learn/content)
+
+
+> [Python机器学习应用](https://www.icourse163.org/learn/BIT-1001872001?tid=1001965001#/learn/announce)
+
+
+> [Python科学计算三维可视化]( https://www.icourse163.org/learn/BIT-1001871001?tid=1001964001#/learn/announce)
 > 
->Python云端系统开发入门 https://www.icourse163.org/learn/BIT-1001871002?tid=1001963002#/
-learn/announce
-
-> Python游戏开发入门
-https://www.icourse163.org/learn/BIT-1001873001?tid=1001966001#/learn/content
-
-
-> Python机器学习应用
-https://www.icourse163.org/learn/BIT-1001872001?tid=1001965001#/learn/announce
-
-
-> Python科学计算三维可视化 https://www.icourse163.org/learn/BIT-1001871001?tid=1001964001#/learn/announce
-> 
-Python语言程序设计 https://www.icourse163.org/learn/BIT-268001?tid=1002235009#/learn/content
+[Python语言程序设计](https://www.icourse163.org/learn/BIT-268001?tid=1002235009#/learn/content)
 
 
 #### University of MICHIGAN
@@ -157,18 +147,17 @@ Python Data Structures
 Using Databases with Python
 * 
 Using Python to Access Web Data
-> https://www.coursera.org/learn/python?specialization=python
+>[Courses]( https://www.coursera.org/learn/python?specialization=python)
 
 
 
+> [Resource material](http://www.pythonlearn.com/)
 
-- Course-Resource(http://www.pythonlearn.com/)
+*University of Michigan that use Python:*
 
-University of Michigan that use Python:
-
-EECS/SI 182 - Building Applications for Information Environments
-SI 502 - Networked Computing: Storage, Communication, and Processing
-SI 539 - Design of Complex Web Sites.
+* [EECS/SI 182 - Building Applications for Information Environments](https://wiki.eecs.umich.edu/eecs182/index.php/Main_Page)
+* [SI 502 - Networked Computing: Storage, Communication, and Processing](https://www.si.umich.edu/programs/courses/502)
+* [SI 539 - Design of Complex Web Sites.](https://www.si.umich.edu/programs/courses/539)
 
 
 
@@ -186,12 +175,93 @@ SI 539 - Design of Complex Web Sites.
 ## Python-Practice
 ## Graduate
 ## Cryo-em
+####Intro
+
+**REVIEW**-[Single-particle cryo-EM—How did it get here and where will it go -Yifan Cheng](http://science.sciencemag.org/content/361/6405/876)
+###1.Software
+
+1. [Relion](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Main_Page)
+ *  REgularised LIkelihood OptimisatioN
+ *  [Download](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Download_%26_install)
+ *  Author-Sjors Scheres
+ *  Lab [Visualising molecular machines](https://www2.mrc-lmb.cam.ac.uk/groups/scheres/)
+
+
+2. [EMAN2.22](https://blake.bcm.edu/emanwiki/EMAN2)
+
+3. [CryoSPARC](https://cryosparc.com/)
+  * *the state-of-the-art platform used globally for obtaining 3D structural information from single particle cryo-EM data.*
+ * stochastic gradient descent (SGD) 
+ *  branch-and-bound maximum likelihood optimization algorithms
+ 
+4.  [UCSF](https://www.cgl.ucsf.edu/chimera/)
+	* visualization and analysis of molecular structures
+ 
+5. [THUNDER](https://github.com/THUEM/THUNDER/)
+ * A particle-filter framework for robust cryoEM 3D reconstruction
+
+6. [SIMPLE](http://simplecryoem.com/index.html)
+ * Single-particle IMage Processing Linux Engine is a program package for cryo-EM image processing, focusing on ab initio 3D reconstruction of low-symmetry single-particles.
+7. [PHENIX](https://www.phenix-online.org/)
+ * Python-based Hierarchical ENvironment for Integrated Xtallography
+ * a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
+###2.Papers & Tutorial
+
+
+1. *CVPR 2015 paper "Building Proteins in a Day"* [Source Code](https://github.com/mbrubake/cryoem-cvpr2015)
+2. *New tools for automated high-resolution cryo-EM structure determination in RELION-3* [eLife 7:e42166, bioRxiv 421123](https://elifesciences.org/articles/42166)
+3. "Accelerated cryo-EM structure determination with parallelisation using GPUs in RELION-2"[eLife 5:e18722, bioRxiv 059717](https://elifesciences.org/articles/18722)
+4. "RELION: Implementation of a Bayesian approach to cryo-EM structure determination" [J. Struc. Biol. 180, 519-530. ](https://www.sciencedirect.com/science/article/pii/S1047847712002481?via%3Dihub)
+5. cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination [Nature Methods 14, 290-296 (2017) ](https://www.nature.com/articles/nmeth.4169)
+6.  A particle-filter framework for robust cryo-EM 3D reconstruction,[Nature Methods volume 15, pages1083–1089 (2018) ](https://www.nature.com/articles/s41592-018-0223-8)
+
+###3.Lab
+1. [MRC-LMB](https://www2.mrc-lmb.cam.ac.uk/)
+ * The MRC Laboratory of Molecular Biology (LMB) is a research institute dedicated to the understanding of important biological processes at the levels of atoms, molecules, cells and organisms. 
+2. STAN
+3. [The Intel® Parallel Computing Center for Structural Biology](http://ipccsb.dfci.harvard.edu/index.html)
+ * Intel® PCCSB is an innovation-oriented research center hosted at Dana-Farber Cancer Institute DFCI and Harvard Medical School HMS. Laboratory for Cryo-Electron Microscopy
+4. [Cambridge Institute for Medical Research](https://www.cimr.cam.ac.uk/)
+5. [Paul D. Adams](http://cci.lbl.gov/~paul/)
+6. (http://kinemage.biochem.duke.edu/)
+7. [Thomas C. Terwilliger](https://solve.lanl.gov/terwilliger/)
+ * Laboratory Fellow, Los Alamos National Laboratory
+8. [Structural Medicine](http://www-structmed.cimr.cam.ac.uk/)
+ * part of the Department of Haematology in the University of Cambridge and the Cambridge Institute for Medical Research (CIMR)
+9. 
+ 
+###4.Related
+
+1. [EM-course](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/EM-course/)
+2. [vedio](https://www.youtube.com/watch?v=LgebZXybAZQ&t=409s)
+ * relion workshop
+3. [AlphaFold: Using AI for scientific discovery](https://deepmind.com/blog/alphafold/)
+ *  apply cutting-edge techniques to predict the 3D structure of a protein based solely on its genetic      sequence.
+4. [MODEL-Scientific data visualization](http://www.sketchfabforscience.com/empiar-10025/)
+
+## Computer-Vision
+###1.Courses
+Courses | university | Duration | Effort | Frequency | Prerequisites
+:-- | :--: | :--: | :--: | :--: | :--:
+[CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) | Stanford | 12 week | 5 hours/week | self-paced | none
+
+
+1. [CS231n: Convolutional Neural Networks for Visual Recognition.](http://cs231n.github.io/)
+2. 
+
+###2.Lab
+1. [Stanford CVGL](http://cvgl.stanford.edu/resources.html)
+2. [Stanford Vision Lab](
+http://vision.stanford.edu/people.html)
+3. [Caltech Computational Vision](http://www.vision.caltech.edu/)
+
+4. 
 ## Machine-learning
 ## ACM
 ## Reading
 ## Git
 ## Kaggle
-## Computer-Vision
+
 ### 帮忙上传
 可以发给我或者其他同学帮忙上传, 或者提 issue
 
