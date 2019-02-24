@@ -47,17 +47,19 @@
 
 <!-- vim-markdown-toc GFM -->
 
-* [mooc](#mooc)
-* [反馈方式](#反馈方式)
-* [资料下载](#资料下载)
-* [课程结构](#课程结构)
-* [课程目录](#课程目录)
-* [贡献投稿](#贡献投稿)
-    * [投稿方式](#投稿方式)
-        * [帮忙上传](#帮忙上传)
-        * [网页操作](#网页操作)
-        * [用命令行](#用命令行)
-    * [投稿建议](#投稿建议)
+* [MOOC](#MOOC)
+* [Python](#Python)
+   * .[Practical Python].(#Practice)
+* [Graduate](#Graduate)
+* [Cryo-em](#Cryo-em)
+* [Machine-learning](#Machine-learning)
+* [ACM](#ACM)
+* [Reading](#Reading)
+* [Git](#Git)
+* [Kaggle](#Kaggle)
+* [Computer-Vision](#Computer-Vision)
+
+
 
 <!-- vim-markdown-toc -->
 
