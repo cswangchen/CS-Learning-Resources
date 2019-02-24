@@ -68,12 +68,6 @@
 **根据拼音字母排序**, 可以通过在此页面搜索课程名快速定位.
 
 * [.](.)
-    * [MOOC](./MOOC)
-        * [宏观经济学](./经管类/宏观经济学)
-        * [会计学原理](./经管类/会计学原理)
-        * [生产与运作管理](./经管类/生产与运作管理)
-        * [市场营销](./经管类/市场营销)
-        * [微观经济学](./经管类/微观经济学)
     * [计算机与信息类](./计算机与信息类)
         * [编译原理和技术](./计算机与信息类/编译原理和技术)
         * [并行计算](./计算机与信息类/并行计算)
@@ -104,37 +98,83 @@
         * [Web-信息处理与应用](./计算机与信息类/Web-信息处理与应用)
         * [微机原理与系统](./计算机与信息类/微机原理与系统)
         * [物联网导论](./计算机与信息类/物联网导论)
-    * [其他](./其他)
-    * [人文社科类](./人文社科类)
-        * [交响乐赏析](./人文社科类/交响乐赏析)
-        * [技术,财富与文明变迁](./人文社科类/技术,财富与文明变迁)
-        * [马克思主义基本原理概论](./人文社科类/马克思主义基本原理概论)
-        * [重要思想概论](./人文社科类/重要思想概论)
-    * [数学类](./数学类)
-        * [多变量微积分](./数学类/多变量微积分)
-        * [概率论与数理统计B](./数学类/概率论与数理统计B)
-        * [计算方法](./数学类/计算方法)
-        * [数理方程](./数学类/数理方程)
-        * [随机过程](./数学类/随机过程)
-        * [线性代数B1](./数学类/线性代数B1)
-        * [运筹学基础](./数学类/运筹学基础)
-    * [utils](./utils)
-    * [物理类](./物理类)
-        * [大学物理实验](./物理类/大学物理实验)
-        * [电磁学](./物理类/电磁学)
-        * [光学与原子物理](./物理类/光学与原子物理)
 
-# 贡献投稿
-欢迎大家的参与与贡献, 投稿的时候注意[版权问题](#版权问题)
 
-## 投稿方式
+
+
 
 # MOOC
-EDX-https://www.edx.org/
 
-Founded by Harvard University and MIT in 2012, edX is an online learning destination and MOOC provider, offering high-quality courses from the world’s best universities and institutions to learners everywhere.
+*For University*
+
+- edx
+> https://www.edx.org/
+
+
+
+
+-  coursera
+> https://www.coursera.org/
+
+
+
+- xuetangx
+>  http://www.xuetangx.com/ 
+
+- 中国大学mooc
+> https://www.icourse163.org/learn/BIT-1001871001?tid=1001964001#/learn/announce
+
+*For Career*
+
+-Udacity
+
+
+> https://cn.udacity.com/
+
+-网易云课堂
+> https://study.163.com/
+
 
 ## Python
+
+#### Beijing Institute of Technology
+> Python数据分析与展示 https://www.icourse163.org/learn/BIT-1001870002?tid=1001963001
+
+> Python网络爬虫与信息提取 https://www.icourse163.org/learn/BIT-1001870001?tid=1002236011
+> 
+>Python云端系统开发入门 https://www.icourse163.org/learn/BIT-1001871002?tid=1001963002#/
+learn/announce
+
+> Python游戏开发入门
+https://www.icourse163.org/learn/BIT-1001873001?tid=1001966001#/learn/content
+
+
+> Python机器学习应用
+https://www.icourse163.org/learn/BIT-1001872001?tid=1001965001#/learn/announce
+
+
+
+> Python科学计算三维可视化 https://www.icourse163.org/learn/BIT-1001871001?tid=1001964001#/learn/announce
+> 
+Python语言程序设计 https://www.icourse163.org/learn/BIT-268001?tid=1002235009#/learn/content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Python-Practice
 ## Graduate
 ## Cryo-em
