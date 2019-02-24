@@ -49,7 +49,7 @@
 
 * [MOOC](#MOOC)
 * [Python](#Python)
-   * [Practical Python].(#Practice)
+   * [Practical Python](#Practice)
 * [Graduate](#Graduate)
 * [Cryo-em](#Cryo-em)
 * [Machine-learning](#Machine-learning)
