@@ -49,7 +49,7 @@
 
 * [MOOC](#MOOC)
 * [Python](#Python)
-   * [Practical Python](#Practice)
+   * [Practical Python](#Python-Practice)
 * [Graduate](#Graduate)
 * [Cryo-em](#Cryo-em)
 * [Machine-learning](#Machine-learning)
@@ -130,9 +130,20 @@
 
 ## 投稿方式
 
-# mooc
+# MOOC
 123
 
+
+# Python
+# Python-Practice
+# Graduate
+# Cryo-em
+# Machine-learning
+# ACM
+# Reading
+# Git
+# Kaggle
+# Computer-Vision
 ### 帮忙上传
 可以发给我或者其他同学帮忙上传, 或者提 issue
 
