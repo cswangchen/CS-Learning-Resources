@@ -6,7 +6,7 @@
 >整理了从本科到研究生（目前）的学习内容，相关资源与研究进展，包括但不仅限于，[BS]物联网工程，[MS]计算机技术，python，mooc资源，机器学习，深度学习，cryo-em[冷冻电子显微镜]，3D reconstruction[三维重建]，Computational Vison。
 
 
-# 目录
+## 目录
 <!-- vim-markdown-toc GFM -->
 
 * [版权问题](#版权问题)
@@ -15,40 +15,44 @@
 
 
 <!-- vim-markdown-toc -->
-# 版权问题
+## 版权问题
 总体上采用 [Creative Commons BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png), 同时遵守具体的某个创作的协议. 如有冲突, 以作品本本身的协议为准.
 
 
 - 对于贡献者, 请遵守如上约定, 尊重创作者的劳动成果, 有来源的需要注明资源的来源(原创者, 网址等等).
 - 对于创作者, 如果我们遗漏了你的授权(有些资源无法找到来源)或者损害了你的权益, 对此感到抱歉, 请联系协商或者删除.
 
-# 联系与Feedback
+## 联系与Feedback
 - [issue](https://github.com/cswangchen/collection/issues/new)
 - <a href="mailto:barryiself@gmail.com?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">email</a>
 
 
-# Contents
+## Contents
 
 
 <!-- vim-markdown-toc GFM -->
 
-* [MOOC](#MOOC)
+* 1.[MOOC](#MOOC)
 	* [Platform](#Platform)
 	* [CS-COURSE](#CS-COURSE)
 	* [Additional-Courses](#Additional-Courses)
-* [Python](#Python)
+	*
+* 2.[Python](#Python)
 	* [Beijing-Institute-of-Technology](#Beijing-Institute-of-Technology)
 	* [University-of-MICHIGAN](#University-of-MICHIGAN)
-* [Artificial-Intelligence](#Artificial-Intelligence)
+* 3.[Artificial-Intelligence](#Artificial-Intelligence)
 	* [Hardware-Environment-deploy](#Hardware-Environment-deploy)
 	* [Machine-learning](#Machine-learning)
 	* [DeepLearning](#DeepLearning)
 	* [TensorFlow](#TensorFlow)
-* [Cryo-em](#Cryo-em)
-* [ACM](#ACM)
-* [Reading](#Reading)
-* [Kaggle](#Kaggle)
-* [Computer-Vision](#Computer-Vision)
+* 4.[Cryo-em](#Cryo-em)
+	* [Software](#Software)
+	* [Papers-Tutorial](#Papers-Tutorial)
+	* [Lab](#Lab)
+	* [Related](#Related)
+* 5.[Computer-Vision](#Computer-Vision)
+	* [Courses](#Courses)
+	* [Lab](#Lab])
 
 
 
@@ -59,19 +63,14 @@
 
 
 
-##1. MOOC
+## 1. MOOC
 As a beginner,utilize a high efficient platform for self-study is a key step for further improvement.MOOC(Massive Open Online Courses) is a good choice.
-#### Platform
+####1.1 Platform
 *For University*
 
 - [edx](https://www.edx.org/)
 
-
-
-
 -  [coursera](https://www.coursera.org/)
-
-
 
 - [xuetangx](http://www.xuetangx.com/) 
 
@@ -84,7 +83,7 @@ As a beginner,utilize a high efficient platform for self-study is a key step for
 -[网易云课堂](https://study.163.com/)
 
 #### 对于CS专业，强烈推荐以下基础课，并附上MOOC网址(亲测）
-#### CS-COURSE
+#### 1.2 CS-COURSE
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)| Massachusetts Institute of Technology | 9 week |Eric Grimson
@@ -103,7 +102,7 @@ Courses | University | Duration |Instructor
 [计算机操作系统](http://www.xuetangx.com/courses/course-v1:NJU+C1026+2016_T2/courseware/3d91688693394170b793217762fcd4eb/)| Nanjing University | 6 week |骆斌
 [计算机网络概论](https://www.icourse163.org/learn/NTHU-1001691005?tid=1001776024#/learn/announce)| 國立清華大學 | 8 week |黄能富
 
-#### Additional-Courses(补充）
+####1.3 Additional-Courses(补充）
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [电路原理](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220214X+2019_T1/about)| Tsinghua University | 14 week |于歆杰
@@ -112,7 +111,7 @@ Courses | University | Duration |Instructor
 
 ## 2. Python
 
-#### Beijing Institute of Technology
+####2.1 Beijing Institute of Technology
 > [Python数据分析与展示]( https://www.icourse163.org/learn/BIT-1001870002?tid=1001963001)
 
 > [Python网络爬虫与信息提取]( https://www.icourse163.org/learn/BIT-1001870001?tid=1002236011)
@@ -131,7 +130,8 @@ Courses | University | Duration |Instructor
 [Python语言程序设计](https://www.icourse163.org/learn/BIT-268001?tid=1002235009#/learn/content)
 
 
-#### University of MICHIGAN
+####2.2 University of MICHIGAN
+
 
 * Programming for Everybody (Getting Started with Python)
 * 
@@ -153,48 +153,41 @@ Using Python to Access Web Data
 * [SI 539 - Design of Complex Web Sites.](https://www.si.umich.edu/programs/courses/539)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 3. Artificial Intelligence
 
-### Hardware Environment-deploy
+###3.1 Hardware Environment-deploy
 
 
-### Machine Learning
+> *Recommend Blog* -----
+[A Full Hardware Guide to Deep Learning](http://timdettmers.com/)
 
 
-### DeepLearning
+
+###3.2 Machine Learning
 
 
-### TensorFlow
+
+###3.3 DeepLearning
+
+
+
+###3.4 TensorFlow
 
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002)| Peking University | 8 week |曹健
 
 
-
-
-## Cryo-em
+##4. Cryo-em
 #### Intro
 
 **REVIEW**-[Single-particle cryo-EM—How did it get here and where will it go -Yifan Cheng](http://science.sciencemag.org/content/361/6405/876)
-### 1.Software
+### 4.1 Software
 
 1. [Relion](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Main_Page)
- *  REgularised LIkelihood OptimisatioN
+ *  *REgularised LIkelihood OptimisatioN*
  *  [Download](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Download_%26_install)
- *  Author-Sjors Scheres
+ *  Author-*Sjors Scheres*
  *  Lab [Visualising molecular machines](https://www2.mrc-lmb.cam.ac.uk/groups/scheres/)
 
 
@@ -213,10 +206,11 @@ Courses | University | Duration |Instructor
 
 6. [SIMPLE](http://simplecryoem.com/index.html)
  * Single-particle IMage Processing Linux Engine is a program package for cryo-EM image processing, focusing on ab initio 3D reconstruction of low-symmetry single-particles.
+
 7. [PHENIX](https://www.phenix-online.org/)
  * Python-based Hierarchical ENvironment for Integrated Xtallography
  * a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
-### 2.Papers & Tutorial
+###4.2 Papers & Tutorial
 
 
 1. *CVPR 2015 paper "Building Proteins in a Day"* [Source Code](https://github.com/mbrubake/cryoem-cvpr2015)
@@ -226,10 +220,10 @@ Courses | University | Duration |Instructor
 5. cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination [Nature Methods 14, 290-296 (2017) ](https://www.nature.com/articles/nmeth.4169)
 6.  A particle-filter framework for robust cryo-EM 3D reconstruction,[Nature Methods volume 15, pages1083–1089 (2018) ](https://www.nature.com/articles/s41592-018-0223-8)
 
-### 3.Lab
+### 4.3 Lab
 1. [MRC-LMB](https://www2.mrc-lmb.cam.ac.uk/)
  * The MRC Laboratory of Molecular Biology (LMB) is a research institute dedicated to the understanding of important biological processes at the levels of atoms, molecules, cells and organisms. 
-2. STAN
+2. STAN(https://cryoem.slac.stanford.edu/)
 3. [The Intel® Parallel Computing Center for Structural Biology](http://ipccsb.dfci.harvard.edu/index.html)
  * Intel® PCCSB is an innovation-oriented research center hosted at Dana-Farber Cancer Institute DFCI and Harvard Medical School HMS. Laboratory for Cryo-Electron Microscopy
 4. [Cambridge Institute for Medical Research](https://www.cimr.cam.ac.uk/)
@@ -241,7 +235,7 @@ Courses | University | Duration |Instructor
  * part of the Department of Haematology in the University of Cambridge and the Cambridge Institute for Medical Research (CIMR)
 9. 
  
-### 4.Related
+### 4.4 Related
 
 1. [EM-course](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/EM-course/)
 2. [vedio](https://www.youtube.com/watch?v=LgebZXybAZQ&t=409s)
@@ -250,8 +244,8 @@ Courses | University | Duration |Instructor
  *  apply cutting-edge techniques to predict the 3D structure of a protein based solely on its genetic      sequence.
 4. [MODEL-Scientific data visualization](http://www.sketchfabforscience.com/empiar-10025/)
 
-## Computer-Vision
-### 1.Courses
+## 5. Computer-Vision
+### 5.1 Courses
 
 
 
@@ -269,15 +263,11 @@ https://web.stanford.edu/class/cs231a/
 
 
 
-### 2.Lab
+### 5.2 Lab
 1. [Stanford CVGL](http://cvgl.stanford.edu/resources.html)
 2. [Stanford Vision Lab](
 http://vision.stanford.edu/people.html)
 3. [Caltech Computational Vision](http://www.vision.caltech.edu/)
 
-
-## ACM
-## Reading
-## Kaggle
 
 
