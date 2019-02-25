@@ -62,7 +62,7 @@
 
 
 
-## 1. MOOC
+##  MOOC
 As a beginner,utilize a high efficient platform for self-study is a key step for further improvement.MOOC(Massive Open Online Courses) is a good choice.
 #### 1.1 Platform
 *For University*
