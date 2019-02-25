@@ -62,9 +62,9 @@
 
 
 
-##  MOOC
+## 1 MOOC
 As a beginner,utilize a high efficient platform for self-study is a key step for further improvement.MOOC(Massive Open Online Courses) is a good choice.
-#### 1.1 Platform
+####  Platform
 *For University*
 
 - [edx](https://www.edx.org/)
@@ -82,7 +82,7 @@ As a beginner,utilize a high efficient platform for self-study is a key step for
 -[网易云课堂](https://study.163.com/)
 
 #### 对于CS专业，强烈推荐以下基础课，并附上MOOC网址(亲测）
-#### 1.2 CS-COURSE
+####  CS-COURSE
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)| Massachusetts Institute of Technology | 9 week |Eric Grimson
@@ -101,16 +101,16 @@ Courses | University | Duration |Instructor
 [计算机操作系统](http://www.xuetangx.com/courses/course-v1:NJU+C1026+2016_T2/courseware/3d91688693394170b793217762fcd4eb/)| Nanjing University | 6 week |骆斌
 [计算机网络概论](https://www.icourse163.org/learn/NTHU-1001691005?tid=1001776024#/learn/announce)| 國立清華大學 | 8 week |黄能富
 
-#### 1.3 Additional-Courses(补充）
+####  Additional-Courses(补充）
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [电路原理](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220214X+2019_T1/about)| Tsinghua University | 14 week |于歆杰
 [数字电子技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250103X+sp/courseware/a0342d9dcbc5440ab93f6279c72593d7/55816a9a7d1b4233ae122386121fb638/)| Tsinghua University | 12 week |王红
 [模拟电子技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250064+sp/info)| Tsinghua University | 10 week |华成英
 
-## 2. Python
+##  Python
 
-#### 2.1 Beijing Institute of Technology
+####  Beijing Institute of Technology
 > [Python数据分析与展示]( https://www.icourse163.org/learn/BIT-1001870002?tid=1001963001)
 
 > [Python网络爬虫与信息提取]( https://www.icourse163.org/learn/BIT-1001870001?tid=1002236011)
@@ -129,7 +129,7 @@ Courses | University | Duration |Instructor
 [Python语言程序设计](https://www.icourse163.org/learn/BIT-268001?tid=1002235009#/learn/content)
 
 
-#### 2.2 University of MICHIGAN
+####  University of MICHIGAN
 
 
 * Programming for Everybody (Getting Started with Python)
@@ -147,9 +147,9 @@ Courses | University | Duration |Instructor
 * [SI 539 - Design of Complex Web Sites.](https://www.si.umich.edu/programs/courses/539)
 
 
-## 3. Artificial Intelligence
+##  Artificial Intelligence
 
-### 3.1 Hardware Environment-deploy
+###  Hardware Environment-deploy
 
 
 > *Recommend Blog* -----
@@ -157,26 +157,26 @@ Courses | University | Duration |Instructor
 
 
 
-### 3.2 Machine Learning
+###  Machine Learning
 
 
 
-### 3.3 DeepLearning
+###  DeepLearning
 
 
 
-### 3.4 TensorFlow
+###  TensorFlow
 
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002)| Peking University | 8 week |曹健
 
 
-## 4. Cryo-em
+##  Cryo-em
 #### Intro
 
 **REVIEW**-[Single-particle cryo-EM—How did it get here and where will it go -Yifan Cheng](http://science.sciencemag.org/content/361/6405/876)
-### 4.1 Software
+###  Software
 
 1. [Relion](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Main_Page)
   *  *REgularised LIkelihood OptimisatioN*
@@ -204,7 +204,7 @@ Courses | University | Duration |Instructor
 7. [PHENIX](https://www.phenix-online.org/)
   * Python-based Hierarchical ENvironment for Integrated Xtallography
   * a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
-### 4.2 Papers & Tutorial
+###  Papers & Tutorial
 
 
 1. *CVPR 2015 paper "Building Proteins in a Day"* [Source Code](https://github.com/mbrubake/cryoem-cvpr2015)
