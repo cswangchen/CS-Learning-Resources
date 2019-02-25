@@ -36,7 +36,6 @@
 	* [Platform](#Platform)
 	* [CS-COURSE](#CS-COURSE)
 	* [Additional-Courses](#Additional-Courses)
-	*
 * 2.[Python](#Python)
 	* [Beijing-Institute-of-Technology](#Beijing-Institute-of-Technology)
 	* [University-of-MICHIGAN](#University-of-MICHIGAN)
@@ -134,16 +133,10 @@ Courses | University | Duration |Instructor
 
 
 * Programming for Everybody (Getting Started with Python)
-* 
-Python Data Structures
-* 
-Using Databases with Python
-* 
-Using Python to Access Web Data
+* Python Data Structures
+* Using Databases with Python
+* Using Python to Access Web Data
 >[Courses]( https://www.coursera.org/learn/python?specialization=python)
-
-
-
 > [Resource material](http://www.pythonlearn.com/)
 
 *University of Michigan that use Python:*
@@ -178,38 +171,38 @@ Courses | University | Duration |Instructor
 [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002)| Peking University | 8 week |曹健
 
 
-##4. Cryo-em
+## 4. Cryo-em
 #### Intro
 
 **REVIEW**-[Single-particle cryo-EM—How did it get here and where will it go -Yifan Cheng](http://science.sciencemag.org/content/361/6405/876)
 ### 4.1 Software
 
 1. [Relion](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Main_Page)
- *  *REgularised LIkelihood OptimisatioN*
- *  [Download](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Download_%26_install)
- *  Author-*Sjors Scheres*
- *  Lab [Visualising molecular machines](https://www2.mrc-lmb.cam.ac.uk/groups/scheres/)
+  *  *REgularised LIkelihood OptimisatioN*
+  *  [Download](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Download_%26_install)
+  *  Author-*Sjors Scheres*
+  *  Lab [Visualising molecular machines](https://www2.mrc-lmb.cam.ac.uk/groups/scheres/)
 
 
 2. [EMAN2.22](https://blake.bcm.edu/emanwiki/EMAN2)
 
 3. [CryoSPARC](https://cryosparc.com/)
-  * *the state-of-the-art platform used globally for obtaining 3D structural information from single particle cryo-EM data.*
- * stochastic gradient descent (SGD) 
- *  branch-and-bound maximum likelihood optimization algorithms
+   * *the state-of-the-art platform used globally for obtaining 3D structural information from single particle cryo-EM data.*
+   * stochastic gradient descent (SGD) 
+   *  branch-and-bound maximum likelihood optimization algorithms
  
 4.  [UCSF](https://www.cgl.ucsf.edu/chimera/)
 	* visualization and analysis of molecular structures
  
 5. [THUNDER](https://github.com/THUEM/THUNDER/)
- * A particle-filter framework for robust cryoEM 3D reconstruction
+  * A particle-filter framework for robust cryoEM 3D reconstruction
 
 6. [SIMPLE](http://simplecryoem.com/index.html)
- * Single-particle IMage Processing Linux Engine is a program package for cryo-EM image processing, focusing on ab initio 3D reconstruction of low-symmetry single-particles.
+  * Single-particle IMage Processing Linux Engine is a program package for cryo-EM image processing, focusing on ab initio 3D reconstruction of low-symmetry single-particles.
 
 7. [PHENIX](https://www.phenix-online.org/)
- * Python-based Hierarchical ENvironment for Integrated Xtallography
- * a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
+  * Python-based Hierarchical ENvironment for Integrated Xtallography
+  * a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
 ### 4.2 Papers & Tutorial
 
 
@@ -222,26 +215,26 @@ Courses | University | Duration |Instructor
 
 ### 4.3 Lab
 1. [MRC-LMB](https://www2.mrc-lmb.cam.ac.uk/)
- * The MRC Laboratory of Molecular Biology (LMB) is a research institute dedicated to the understanding of important biological processes at the levels of atoms, molecules, cells and organisms. 
+  * The MRC Laboratory of Molecular Biology (LMB) is a research institute dedicated to the understanding of important biological processes at the levels of atoms, molecules, cells and organisms. 
 2. STAN(https://cryoem.slac.stanford.edu/)
 3. [The Intel® Parallel Computing Center for Structural Biology](http://ipccsb.dfci.harvard.edu/index.html)
- * Intel® PCCSB is an innovation-oriented research center hosted at Dana-Farber Cancer Institute DFCI and Harvard Medical School HMS. Laboratory for Cryo-Electron Microscopy
+  * Intel® PCCSB is an innovation-oriented research center hosted at Dana-Farber Cancer Institute DFCI and Harvard Medical School HMS. Laboratory for Cryo-Electron Microscopy
 4. [Cambridge Institute for Medical Research](https://www.cimr.cam.ac.uk/)
 5. [Paul D. Adams](http://cci.lbl.gov/~paul/)
 6. (http://kinemage.biochem.duke.edu/)
 7. [Thomas C. Terwilliger](https://solve.lanl.gov/terwilliger/)
- * Laboratory Fellow, Los Alamos National Laboratory
+  * Laboratory Fellow, Los Alamos National Laboratory
 8. [Structural Medicine](http://www-structmed.cimr.cam.ac.uk/)
- * part of the Department of Haematology in the University of Cambridge and the Cambridge Institute for Medical Research (CIMR)
+  * part of the Department of Haematology in the University of Cambridge and the Cambridge Institute for Medical Research (CIMR)
 9. 
  
 ### 4.4 Related
 
 1. [EM-course](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/EM-course/)
 2. [vedio](https://www.youtube.com/watch?v=LgebZXybAZQ&t=409s)
- * relion workshop
+  * relion workshop
 3. [AlphaFold: Using AI for scientific discovery](https://deepmind.com/blog/alphafold/)
- *  apply cutting-edge techniques to predict the 3D structure of a protein based solely on its genetic      sequence.
+  *  apply cutting-edge techniques to predict the 3D structure of a protein based solely on its genetic      sequence.
 4. [MODEL-Scientific data visualization](http://www.sketchfabforscience.com/empiar-10025/)
 
 ## 5. Computer-Vision
