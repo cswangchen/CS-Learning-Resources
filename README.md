@@ -77,7 +77,23 @@ As a beginner,utilize a high efficient platform for self-study is a key step for
 
 -[网易云课堂](https://study.163.com/)
 
-对于CS专业，强烈推荐以下基础课，并附上MOOC网址(本人亲测）
+对于CS专业，强烈推荐以下基础课，并附上MOOC网址(亲测）
+
+Courses | University | Duration |Instructor
+:-- | :--: | :--: | :--: 
+
+[计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)| Massachusetts Institute of Technology | 9 week |Eric Grimson
+[程序设计入门—Java语言](https://mooc.study.163.com/course/1000002014?_trace_c_p_k2_=b48d3c7560f147e8be67f5afa8c4f559#/info) | Zhejiang University | 6 week |翁凯
+[Java语言程序设计进阶](https://mooc.study.163.com/course/1000004001?_trace_c_p_k2_=5357aedc15bc4d62b7111691048802a9#/info) | Zhejiang University | 7 week |翁凯
+[程序设计入门—C语言](https://mooc.study.163.com/course/1000002011?_trace_c_p_k2_=16d5a5ec53c64aaea648c8a308b1a915#/info) | Zhejiang University | 7 week |翁凯
+[C语言程序设计进阶](https://mooc.study.163.com/course/1000004000?_trace_c_p_k2_=bb5ba34e974d4a9ba9f05afa6036792b#/info) | Zhejiang University | 8 week |翁凯
+[数据结构](https://mooc.study.163.com/course/1000033001?_trace_c_p_k2_=3e3cc871b86147f18d934699eb90b236#/info) | Zhejiang University | 8 week |陈越，何钦铭
+[C++面向对象程序设计](https://www.icourse163.org/learn/PKU-1002029030?tid=1002131033#/learn/announce)| Peking University | 9 week |郭炜
+[算法基础](https://www.icourse163.org/course/PKU-1001894005)| Peking University | 10 week |郭炜
+
+
+
+
 
 ##2. Python
 
@@ -204,17 +220,14 @@ Using Python to Access Web Data
 ## Computer-Vision
 ###1.Courses
 
-Courses | University | Duration |Instructor
-:-- | :--: | :--: | :--: 
-[程序设计入门—Java语言](https://mooc.study.163.com/course/1000002014?_trace_c_p_k2_=b48d3c7560f147e8be67f5afa8c4f559#/info) | Zhejiang University | 6 week |翁凯
-[Java语言程序设计进阶](https://mooc.study.163.com/course/1000004001?_trace_c_p_k2_=5357aedc15bc4d62b7111691048802a9#/info) | Zhejiang University | 7 week |翁凯
+
 
 
 
 Courses | university | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) | Stanford | 12 week | 5 hours/week | self-paced | none
-
+https://web.stanford.edu/class/cs231a/
 
 1. [CS231n: Convolutional Neural Networks for Visual Recognition.](http://cs231n.github.io/)
 2. 
