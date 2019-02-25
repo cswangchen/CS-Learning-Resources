@@ -103,6 +103,7 @@ Courses | University | Duration |Instructor
 [电路原理](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220214X+2019_T1/about)| Tsinghua University | 14 week |于歆杰
 [数字电子技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250103X+sp/courseware/a0342d9dcbc5440ab93f6279c72593d7/55816a9a7d1b4233ae122386121fb638/)| Tsinghua University | 12 week |王红
 [模拟电子技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250064+sp/info)| Tsinghua University | 10 week |华成英
+
 ##2. Python
 
 #### Beijing Institute of Technology
@@ -170,6 +171,7 @@ DeepLearning
 
 
 TensorFlow
+
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002)| Peking University | 8 week |曹健
@@ -178,10 +180,10 @@ Courses | University | Duration |Instructor
 
 ## Graduate
 ## Cryo-em
-####Intro
+#### Intro
 
 **REVIEW**-[Single-particle cryo-EM—How did it get here and where will it go -Yifan Cheng](http://science.sciencemag.org/content/361/6405/876)
-###1.Software
+### 1.Software
 
 1. [Relion](https://www2.mrc-lmb.cam.ac.uk/relion/index.php?title=Main_Page)
  *  REgularised LIkelihood OptimisatioN
@@ -208,7 +210,7 @@ Courses | University | Duration |Instructor
 7. [PHENIX](https://www.phenix-online.org/)
  * Python-based Hierarchical ENvironment for Integrated Xtallography
  * a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
-###2.Papers & Tutorial
+### 2.Papers & Tutorial
 
 
 1. *CVPR 2015 paper "Building Proteins in a Day"* [Source Code](https://github.com/mbrubake/cryoem-cvpr2015)
@@ -218,7 +220,7 @@ Courses | University | Duration |Instructor
 5. cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination [Nature Methods 14, 290-296 (2017) ](https://www.nature.com/articles/nmeth.4169)
 6.  A particle-filter framework for robust cryo-EM 3D reconstruction,[Nature Methods volume 15, pages1083–1089 (2018) ](https://www.nature.com/articles/s41592-018-0223-8)
 
-###3.Lab
+### 3.Lab
 1. [MRC-LMB](https://www2.mrc-lmb.cam.ac.uk/)
  * The MRC Laboratory of Molecular Biology (LMB) is a research institute dedicated to the understanding of important biological processes at the levels of atoms, molecules, cells and organisms. 
 2. STAN
@@ -233,7 +235,7 @@ Courses | University | Duration |Instructor
  * part of the Department of Haematology in the University of Cambridge and the Cambridge Institute for Medical Research (CIMR)
 9. 
  
-###4.Related
+### 4.Related
 
 1. [EM-course](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/EM-course/)
 2. [vedio](https://www.youtube.com/watch?v=LgebZXybAZQ&t=409s)
@@ -243,7 +245,7 @@ Courses | University | Duration |Instructor
 4. [MODEL-Scientific data visualization](http://www.sketchfabforscience.com/empiar-10025/)
 
 ## Computer-Vision
-###1.Courses
+### 1.Courses
 
 
 
@@ -261,7 +263,7 @@ https://web.stanford.edu/class/cs231a/
 
 
 
-###2.Lab
+### 2.Lab
 1. [Stanford CVGL](http://cvgl.stanford.edu/resources.html)
 2. [Stanford Vision Lab](
 http://vision.stanford.edu/people.html)
@@ -274,6 +276,4 @@ http://vision.stanford.edu/people.html)
 ## Git
 ## Kaggle
 
-### 帮忙上传
-可以发给我或者其他同学帮忙上传, 或者提 issue
 
