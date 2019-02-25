@@ -10,7 +10,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [版权问题](#版权问题)
-* [联系&Feedback](#联系&Feedback)
+* [联系与Feedback](#联系与Feedback)
 * [Contents](#Contents)
 
 
@@ -22,7 +22,7 @@
 - 对于贡献者, 请遵守如上约定, 尊重创作者的劳动成果, 有来源的需要注明资源的来源(原创者, 网址等等).
 - 对于创作者, 如果我们遗漏了你的授权(有些资源无法找到来源)或者损害了你的权益, 对此感到抱歉, 请联系协商或者删除.
 
-# 联系&Feedback
+# 联系与Feedback
 - [issue](https://github.com/cswangchen/collection/issues/new)
 - <a href="mailto:barryiself@gmail.com?subject=%E5%8F%8D%E9%A6%88%E4%B8%8E%E5%BB%BA%E8%AE%AE">email</a>
 
