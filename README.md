@@ -102,7 +102,7 @@ Courses | University | Duration |Instructor
 [计算机操作系统](http://www.xuetangx.com/courses/course-v1:NJU+C1026+2016_T2/courseware/3d91688693394170b793217762fcd4eb/)| Nanjing University | 6 week |骆斌
 [计算机网络概论](https://www.icourse163.org/learn/NTHU-1001691005?tid=1001776024#/learn/announce)| 國立清華大學 | 8 week |黄能富
 
-####1.3 Additional-Courses(补充）
+#### 1.3 Additional-Courses(补充）
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [电路原理](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220214X+2019_T1/about)| Tsinghua University | 14 week |于歆杰
@@ -111,7 +111,7 @@ Courses | University | Duration |Instructor
 
 ## 2. Python
 
-####2.1 Beijing Institute of Technology
+#### 2.1 Beijing Institute of Technology
 > [Python数据分析与展示]( https://www.icourse163.org/learn/BIT-1001870002?tid=1001963001)
 
 > [Python网络爬虫与信息提取]( https://www.icourse163.org/learn/BIT-1001870001?tid=1002236011)
@@ -130,7 +130,7 @@ Courses | University | Duration |Instructor
 [Python语言程序设计](https://www.icourse163.org/learn/BIT-268001?tid=1002235009#/learn/content)
 
 
-####2.2 University of MICHIGAN
+#### 2.2 University of MICHIGAN
 
 
 * Programming for Everybody (Getting Started with Python)
@@ -155,7 +155,7 @@ Using Python to Access Web Data
 
 ## 3. Artificial Intelligence
 
-###3.1 Hardware Environment-deploy
+### 3.1 Hardware Environment-deploy
 
 
 > *Recommend Blog* -----
@@ -163,15 +163,15 @@ Using Python to Access Web Data
 
 
 
-###3.2 Machine Learning
+### 3.2 Machine Learning
 
 
 
-###3.3 DeepLearning
+### 3.3 DeepLearning
 
 
 
-###3.4 TensorFlow
+### 3.4 TensorFlow
 
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
@@ -210,7 +210,7 @@ Courses | University | Duration |Instructor
 7. [PHENIX](https://www.phenix-online.org/)
  * Python-based Hierarchical ENvironment for Integrated Xtallography
  * a software suite for the automated determination of molecular structures using X-ray crystallography and other methods.
-###4.2 Papers & Tutorial
+### 4.2 Papers & Tutorial
 
 
 1. *CVPR 2015 paper "Building Proteins in a Day"* [Source Code](https://github.com/mbrubake/cryoem-cvpr2015)
