@@ -1,31 +1,26 @@
-# Chrome资源
+# *From Bachelor to future*
 [![Stars](https://img.shields.io/github/stars/cswangchen/collection.svg?label=Stars&style=social)](https://github.com/cswangchen/collection/stargazers)
 [![Forks](https://img.shields.io/github/forks/cswangchen/collection.svg?label=Fork&style=social)](https://github.com/cswangchen/collection/network/members)
 [![License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
->Chrome 整理
+>整理了从本科到研究生（目前）的学习内容，相关资源与研究进展，包括但不仅限于，[BS]物联网工程，[MS]计算机技术，python，mooc资源，机器学习，深度学习，cryo-em[冷冻电子显微镜]，3D reconstruction[三维重建]，Computational Vison。
 
 
 # 目录
 <!-- vim-markdown-toc GFM -->
 
 * [版权问题](#版权问题)
-* [反馈方式](#反馈方式)
-* [课程目录](#课程目录)
-* [贡献投稿](#贡献投稿)
-    * [投稿方式](#投稿方式)
-        * [帮忙上传](#帮忙上传)
-        * [网页操作](#网页操作)
-        * [用命令行](#用命令行)
-    * [投稿建议](#投稿建议)
+* [反馈方式](#联系&Feedback)
+* [Contents](#Contents)
+
 
 <!-- vim-markdown-toc -->
 # 版权问题
-我们总体上采用 [Creative Commons BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png), 同时遵守具体的某个创作的协议. 如有冲突, 以作品本本身的协议为准.
+总体上采用 [Creative Commons BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png), 同时遵守具体的某个创作的协议. 如有冲突, 以作品本本身的协议为准.
 
 
 - 对于贡献者, 请遵守如上约定, 尊重创作者的劳动成果, 有来源的需要注明资源的来源(原创者, 网址等等).
-- 对于创作者, 如果我们遗漏了你的授权(有些资源无法找到来源)或者损害了你的权益, 对此感到抱歉, 请联系我们协商或者删除.
+- 对于创作者, 如果我们遗漏了你的授权(有些资源无法找到来源)或者损害了你的权益, 对此感到抱歉, 请联系协商或者删除.
 
 # 联系&Feedback
 - [issue](https://github.com/cswangchen/collection/issues/new)
@@ -53,47 +48,13 @@
 
 <!-- vim-markdown-toc -->
 
-```
-# 课程目录
-**根据拼音字母排序**, 可以通过在此页面搜索课程名快速定位.
-
-* [.](.)
-    * [计算机与信息类](./计算机与信息类)
-        * [编译原理和技术](./计算机与信息类/编译原理和技术)
-        * [并行计算](./计算机与信息类/并行计算)
-        * [操作系统原理与设计](./计算机与信息类/操作系统原理与设计)
-        * [c程序设计](./计算机与信息类/c程序设计)
-        * [程序设计语言基础(英)](./计算机与信息类/程序设计语言基础(英))
-        * [计算机体系结构](./计算机与信息类/计算机体系结构)
-        * [计算机网络](./计算机与信息类/计算机网络)
-        * [计算机系统概论(ICS)](./计算机与信息类/计算机系统概论(ICS))
-        * [计算机系统详解(csapp)](./计算机与信息类/计算机系统详解(csapp))
-        * [计算机组成原理](./计算机与信息类/计算机组成原理)
-        * [类型系统](./计算机与信息类/类型系统)
-        * [密码学](./计算机与信息类/密码学)
-        * [模拟与数字电路](./计算机与信息类/模拟与数字电路)
-        * [脑与认知科学导论](./计算机与信息类/脑与认知科学导论)
-        * [python](./计算机与信息类/python)
-        * [人工智能导论](./计算机与信息类/人工智能导论)
-        * [人工智能基础](./计算机与信息类/人工智能基础)
-        * [软件工程](./计算机与信息类/软件工程)
-        * [scheme](./计算机与信息类/scheme)
-        * [数电实验](./计算机与信息类/数电实验)
-        * [数据结构](./计算机与信息类/数据结构)
-        * [数据科学导论](./计算机与信息类/数据科学导论)
-        * [数据库系统及应用](./计算机与信息类/数据库系统及应用)
-        * [数理逻辑](./计算机与信息类/数理逻辑)
-        * [算法基础](./计算机与信息类/算法基础)
-        * [图论](./计算机与信息类/图论)
-        * [Web-信息处理与应用](./计算机与信息类/Web-信息处理与应用)
-        * [微机原理与系统](./计算机与信息类/微机原理与系统)
-        * [物联网导论](./计算机与信息类/物联网导论)
-```
 
 
 
 
-# MOOC
+
+##1. MOOC
+As a beginner,utilize a high efficient platform for self-study is a key step for further improvement.MOOC(Massive Open Online Courses) is a good choice.
 
 *For University*
 
@@ -116,8 +77,9 @@
 
 -[网易云课堂](https://study.163.com/)
 
+对于CS专业，强烈推荐以下基础课，并附上MOOC网址(本人亲测）
 
-## Python
+##2. Python
 
 #### Beijing Institute of Technology
 > [Python数据分析与展示]( https://www.icourse163.org/learn/BIT-1001870002?tid=1001963001)
@@ -242,9 +204,11 @@ Using Python to Access Web Data
 ## Computer-Vision
 ###1.Courses
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
+ Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) | UVA | 12 week | 5 hours/week | self-paced | none
+[程序设计入门—Java语言](https://mooc.study.163.com/course/1000002014?_trace_c_p_k2_=b48d3c7560f147e8be67f5afa8c4f559#/info) | Zhejiang University | 6 week |翁凯
+[Java语言程序设计进阶](https://mooc.study.163.com/course/1000004001?_trace_c_p_k2_=5357aedc15bc4d62b7111691048802a9#/info) | Zhejiang University | 7 week |翁凯
+
 
 
 Courses | university | Duration | Effort | Frequency | Prerequisites
