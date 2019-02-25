@@ -137,6 +137,7 @@ Courses | University | Duration |Instructor
 * Using Databases with Python
 * Using Python to Access Web Data
 >[Courses]( https://www.coursera.org/learn/python?specialization=python)
+
 > [Resource material](http://www.pythonlearn.com/)
 
 *University of Michigan that use Python:*
@@ -226,7 +227,6 @@ Courses | University | Duration |Instructor
   * Laboratory Fellow, Los Alamos National Laboratory
 8. [Structural Medicine](http://www-structmed.cimr.cam.ac.uk/)
   * part of the Department of Haematology in the University of Cambridge and the Cambridge Institute for Medical Research (CIMR)
-9. 
  
 ### 4.4 Related
 
