@@ -109,7 +109,7 @@ Courses | University | Duration |Instructor
 [数字电子技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250103X+sp/courseware/a0342d9dcbc5440ab93f6279c72593d7/55816a9a7d1b4233ae122386121fb638/)| Tsinghua University | 12 week |王红
 [模拟电子技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250064+sp/info)| Tsinghua University | 10 week |华成英
 
-##2. Python
+## 2. Python
 
 #### Beijing Institute of Technology
 > [Python数据分析与展示]( https://www.icourse163.org/learn/BIT-1001870002?tid=1001963001)
