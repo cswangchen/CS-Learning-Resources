@@ -62,7 +62,7 @@
 
 
 
-## 1 MOOC
+##  MOOC
 As a beginner,utilize a high efficient platform for self-study is a key step for further improvement.MOOC(Massive Open Online Courses) is a good choice.
 ####  Platform
 *For University*
@@ -214,7 +214,7 @@ Courses | University | Duration |Instructor
 5. cryoSPARC: algorithms for rapid unsupervised cryo-EM structure determination [Nature Methods 14, 290-296 (2017) ](https://www.nature.com/articles/nmeth.4169)
 6.  A particle-filter framework for robust cryo-EM 3D reconstruction,[Nature Methods volume 15, pages1083–1089 (2018) ](https://www.nature.com/articles/s41592-018-0223-8)
 
-### 4.3 Lab
+###  Lab
 1. [MRC-LMB](https://www2.mrc-lmb.cam.ac.uk/)
   * The MRC Laboratory of Molecular Biology (LMB) is a research institute dedicated to the understanding of important biological processes at the levels of atoms, molecules, cells and organisms. 
 2. STAN(https://cryoem.slac.stanford.edu/)
@@ -228,7 +228,7 @@ Courses | University | Duration |Instructor
 8. [Structural Medicine](http://www-structmed.cimr.cam.ac.uk/)
   * part of the Department of Haematology in the University of Cambridge and the Cambridge Institute for Medical Research (CIMR)
  
-### 4.4 Related
+###  Related
 
 1. [EM-course](ftp://ftp.mrc-lmb.cam.ac.uk/pub/scheres/EM-course/)
 2. [vedio](https://www.youtube.com/watch?v=LgebZXybAZQ&t=409s)
@@ -237,8 +237,8 @@ Courses | University | Duration |Instructor
   *  apply cutting-edge techniques to predict the 3D structure of a protein based solely on its genetic      sequence.
 4. [MODEL-Scientific data visualization](http://www.sketchfabforscience.com/empiar-10025/)
 
-## 5. Computer-Vision
-### 5.1 Courses
+##  Computer-Vision
+###  Courses
 
 
 
@@ -256,7 +256,7 @@ https://web.stanford.edu/class/cs231a/
 
 
 
-### 5.2 Lab
+###  Lab
 1. [Stanford CVGL](http://cvgl.stanford.edu/resources.html)
 2. [Stanford Vision Lab](
 http://vision.stanford.edu/people.html)
