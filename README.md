@@ -86,8 +86,10 @@ Courses | University | Duration |Instructor
 [Java语言程序设计进阶](https://mooc.study.163.com/course/1000004001?_trace_c_p_k2_=5357aedc15bc4d62b7111691048802a9#/info) | Zhejiang University | 7 week |翁凯
 [程序设计入门—C语言](https://mooc.study.163.com/course/1000002011?_trace_c_p_k2_=16d5a5ec53c64aaea648c8a308b1a915#/info) | Zhejiang University | 7 week |翁凯
 [C语言程序设计进阶](https://mooc.study.163.com/course/1000004000?_trace_c_p_k2_=bb5ba34e974d4a9ba9f05afa6036792b#/info) | Zhejiang University | 8 week |翁凯
-[数据结构](https://mooc.study.163.com/course/1000033001?_trace_c_p_k2_=3e3cc871b86147f18d934699eb90b236#/info) | Zhejiang University | 8 week |陈越，何钦铭
 [C++面向对象程序设计](https://www.icourse163.org/learn/PKU-1002029030?tid=1002131033#/learn/announce)| Peking University | 9 week |郭炜
+[C++语言程序设计](http://www.xuetangx.com/courses/course-v1:TsinghuaX+00740043X_2015_T2+sp/courseware/354af03398f44db7bdae229c35d3fafd/)| Tsinghua University | 12 week |郑莉
+[数据结构](https://mooc.study.163.com/course/1000033001?_trace_c_p_k2_=3e3cc871b86147f18d934699eb90b236#/info) | Zhejiang University | 8 week |陈越，何钦铭
+[数据结构](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about)| Tsinghua University | 12 week |邓俊辉
 [算法基础](https://www.icourse163.org/course/PKU-1001894005)| Peking University | 10 week |郭炜
 
 
