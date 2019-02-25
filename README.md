@@ -10,7 +10,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [版权问题](#版权问题)
-* [反馈方式](#联系&Feedback)
+* [联系&Feedback](#联系&Feedback)
 * [Contents](#Contents)
 
 
