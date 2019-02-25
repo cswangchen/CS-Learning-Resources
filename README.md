@@ -40,6 +40,7 @@
 	* [Beijing-Institute-of-Technology](#Beijing-Institute-of-Technology)
 	* [University-of-MICHIGAN](#University-of-MICHIGAN)
 * [Artificial-Intelligence](#Artificial-Intelligence)
+	* [Hardware-Environment-deploy](#Hardware-Environment-deploy)
 	* [Machine-learning](#Machine-learning)
 	* [DeepLearning](#DeepLearning)
 	* [TensorFlow](#TensorFlow)
@@ -166,7 +167,7 @@ Using Python to Access Web Data
 
 ## 3. Artificial Intelligence
 
-搭建深度学习主机
+### Hardware Environment-deploy
 
 
 ### Machine Learning
@@ -274,11 +275,9 @@ https://web.stanford.edu/class/cs231a/
 http://vision.stanford.edu/people.html)
 3. [Caltech Computational Vision](http://www.vision.caltech.edu/)
 
-4. 
-## Machine-learning
+
 ## ACM
 ## Reading
-## Git
 ## Kaggle
 
 
