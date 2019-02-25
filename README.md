@@ -33,14 +33,19 @@
 <!-- vim-markdown-toc GFM -->
 
 * [MOOC](#MOOC)
+	* [Platform](#Platform)
+	* [CS-COURSE](#CS-COURSE)
+	* [Additional-Courses](#Additional-Courses)
 * [Python](#Python)
-   * [Practical Python](#Python-Practice)
-* [Graduate](#Graduate)
+	* [BIT](#Beijing Institute of Technology)
+	* [UMich](#University of MICHIGAN)
+* [Artificial-Intelligence](#Artificial-Intelligence)
+	* [Machine-learning](#Machine-learning)
+	* [DeepLearning](#DeepLearning)
+	* [TensorFlow](#TensorFlow)
 * [Cryo-em](#Cryo-em)
-* [Machine-learning](#Machine-learning)
 * [ACM](#ACM)
 * [Reading](#Reading)
-* [Git](#Git)
 * [Kaggle](#Kaggle)
 * [Computer-Vision](#Computer-Vision)
 
@@ -55,7 +60,7 @@
 
 ##1. MOOC
 As a beginner,utilize a high efficient platform for self-study is a key step for further improvement.MOOC(Massive Open Online Courses) is a good choice.
-
+#### Platform
 *For University*
 
 - [edx](https://www.edx.org/)
@@ -78,7 +83,7 @@ As a beginner,utilize a high efficient platform for self-study is a key step for
 -[网易云课堂](https://study.163.com/)
 
 #### 对于CS专业，强烈推荐以下基础课，并附上MOOC网址(亲测）
-
+#### CS-COURSE
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)| Massachusetts Institute of Technology | 9 week |Eric Grimson
@@ -97,7 +102,7 @@ Courses | University | Duration |Instructor
 [计算机操作系统](http://www.xuetangx.com/courses/course-v1:NJU+C1026+2016_T2/courseware/3d91688693394170b793217762fcd4eb/)| Nanjing University | 6 week |骆斌
 [计算机网络概论](https://www.icourse163.org/learn/NTHU-1001691005?tid=1001776024#/learn/announce)| 國立清華大學 | 8 week |黄能富
 
-#### Additional Courses(补充）
+#### Additional-Courses(补充）
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [电路原理](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220214X+2019_T1/about)| Tsinghua University | 14 week |于歆杰
@@ -164,13 +169,13 @@ Using Python to Access Web Data
 搭建深度学习主机
 
 
-Machine Learning
+### Machine Learning
 
 
-DeepLearning
+### DeepLearning
 
 
-TensorFlow
+### TensorFlow
 
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
@@ -178,7 +183,7 @@ Courses | University | Duration |Instructor
 
 
 
-## Graduate
+
 ## Cryo-em
 #### Intro
 
