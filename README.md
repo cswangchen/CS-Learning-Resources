@@ -77,11 +77,12 @@ As a beginner,utilize a high efficient platform for self-study is a key step for
 
 -[网易云课堂](https://study.163.com/)
 
-对于CS专业，强烈推荐以下基础课，并附上MOOC网址(亲测）
+#### 对于CS专业，强烈推荐以下基础课，并附上MOOC网址(亲测）
 
 Courses | University | Duration |Instructor
 :-- | :--: | :--: | :--: 
 [计算机科学和Python编程导论](http://www.xuetangx.com/courses/course-v1:MITx+6_00_1x+sp/about)| Massachusetts Institute of Technology | 9 week |Eric Grimson
+[Python for Everybody](https://www.coursera.org/learn/python)| University of Michigan | 7 week |Charles Severance
 [程序设计入门—Java语言](https://mooc.study.163.com/course/1000002014?_trace_c_p_k2_=b48d3c7560f147e8be67f5afa8c4f559#/info) | Zhejiang University | 6 week |翁凯
 [Java语言程序设计进阶](https://mooc.study.163.com/course/1000004001?_trace_c_p_k2_=5357aedc15bc4d62b7111691048802a9#/info) | Zhejiang University | 7 week |翁凯
 [程序设计入门—C语言](https://mooc.study.163.com/course/1000002011?_trace_c_p_k2_=16d5a5ec53c64aaea648c8a308b1a915#/info) | Zhejiang University | 7 week |翁凯
@@ -91,11 +92,17 @@ Courses | University | Duration |Instructor
 [数据结构](https://mooc.study.163.com/course/1000033001?_trace_c_p_k2_=3e3cc871b86147f18d934699eb90b236#/info) | Zhejiang University | 8 week |陈越，何钦铭
 [数据结构](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240184+sp/about)| Tsinghua University | 12 week |邓俊辉
 [算法基础](https://www.icourse163.org/course/PKU-1001894005)| Peking University | 10 week |郭炜
+[Algorithms](https://www.coursera.org/learn/algorithms-part1)| Princeton University | 6 week | Robert Sedgewick
+[操作系统](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30240243X+sp/courseware/be5b8d4fec0c4c329d19845020bc67b2/)| Tsinghua University | 23 week |向勇
+[计算机操作系统](http://www.xuetangx.com/courses/course-v1:NJU+C1026+2016_T2/courseware/3d91688693394170b793217762fcd4eb/)| Nanjing University | 6 week |骆斌
+[计算机网络概论](https://www.icourse163.org/learn/NTHU-1001691005?tid=1001776024#/learn/announce)| 國立清華大學 | 8 week |黄能富
 
-
-
-
-
+#### Additional Courses(补充）
+Courses | University | Duration |Instructor
+:-- | :--: | :--: | :--: 
+[电路原理](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20220214X+2019_T1/about)| Tsinghua University | 14 week |于歆杰
+[数字电子技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250103X+sp/courseware/a0342d9dcbc5440ab93f6279c72593d7/55816a9a7d1b4233ae122386121fb638/)| Tsinghua University | 12 week |王红
+[模拟电子技术](http://www.xuetangx.com/courses/course-v1:TsinghuaX+20250064+sp/info)| Tsinghua University | 10 week |华成英
 ##2. Python
 
 #### Beijing Institute of Technology
@@ -151,7 +158,24 @@ Using Python to Access Web Data
 
 
 
-## Python-Practice
+## 3. Artificial Intelligence
+
+搭建深度学习主机
+
+
+Machine Learning
+
+
+DeepLearning
+
+
+TensorFlow
+Courses | University | Duration |Instructor
+:-- | :--: | :--: | :--: 
+[人工智能实践：Tensorflow笔记](https://www.icourse163.org/course/PKU-1002536002)| Peking University | 8 week |曹健
+
+
+
 ## Graduate
 ## Cryo-em
 ####Intro
@@ -228,17 +252,12 @@ Using Python to Access Web Data
 Courses | university | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) | Stanford | 12 week | 5 hours/week | self-paced | none
+
+
 https://web.stanford.edu/class/cs231a/
 
-1. [CS231n: Convolutional Neural Networks for Visual Recognition.](http://cs231n.github.io/)
-2. 
 
-## Computer Science Basics
 
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101) | UVA | 12 week | 5 hours/week | self-paced | none
-[Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
 
 
