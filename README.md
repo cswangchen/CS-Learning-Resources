@@ -6,6 +6,7 @@
 >整理了从本科到研究生（目前）的学习内容，相关资源与研究进展，包括但不仅限于，[BS]物联网工程，[MS]计算机技术，python，mooc资源，机器学习，深度学习，cryo-em[冷冻电子显微镜]，3D reconstruction[三维重建]，Computational Vison。
 
 
+
 ## 目录
 <!-- vim-markdown-toc GFM -->
 
@@ -263,4 +264,5 @@ http://vision.stanford.edu/people.html)
 3. [Caltech Computational Vision](http://www.vision.caltech.edu/)
 
 
-
+### Outlook
+Due to the future plan,i decide not to keep this track for phd.
